@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "mod-type": "SUPPLEMENTAL",
+    "ident": "bonearmor",
+    "name": "Bone Armor",
+    "authors": [ "Blankie" ],
+    "description": "Brings bone armor back to the game",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
